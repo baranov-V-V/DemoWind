@@ -1,0 +1,3 @@
+C:/Users/VBAR/Documents/Programs_C/SolverEq/CMakeFiles/solver.dir
+C:/Users/VBAR/Documents/Programs_C/SolverEq/CMakeFiles/edit_cache.dir
+C:/Users/VBAR/Documents/Programs_C/SolverEq/CMakeFiles/rebuild_cache.dir
